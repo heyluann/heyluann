@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/d9/9b/f2/d99bf28699386e61aed22c1ab692bdb5.jpg"  />
-
 ###
 
 <div align="left">
