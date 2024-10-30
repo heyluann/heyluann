@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=heyluann&color=006bed)
 
+## 💜 Olá, meu nome é Luiz Luan Barbosa de Sousa!
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
