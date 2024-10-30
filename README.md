@@ -30,12 +30,12 @@
 <br/>
 
 <a href="https://github.com/heyluann" title="Perfil do Luiz Luan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyluann&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luiz-luan-barbosa-de-sousa-0238aa245/)
+[![Linkedin](https://img.shields.io/badge/-luizluanbarbosadesousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/luiz-luan-barbosa-de-sousa-0238aa245/))](https://www.linkedin.com/in/luiz-luan-barbosa-de-sousa-0238aa245/)
 [![Gmail Badge](https://img.shields.io/badge/-luanin098@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanin098@gmail.com)](mailto:luanin098@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/heyluann?label=follow&style=social)](https://github.com/heyluann)
 
