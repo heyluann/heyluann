@@ -1,37 +1,34 @@
 ![](https://komarev.com/ghpvc/?username=heyluann&color=006bed)
 
-## 💜 Olá, meu nome é Luiz Luan Barbosa de Sousa!
+<h1 align="center">👋 Olá, me chamo Luan Sousa</h1>
 
-## Sobre mim
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724DD&width=435&lines=A+front-end+developer...;A+developer..." alt="Typing SVG" />
+  </a>
+</p>
 
+---
+
+## 👩‍💻 **About Me**
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio.
 
-  ## Sociais
+### 🌐 **Sociais**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/luann-sousa)
 
-[![Linkedin](https://img.shields.io/badge/-luizluanbarbosadesousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/luiz-luan-barbosa-de-sousa-0238aa245/))](https://www.linkedin.com/in/luiz-luan-barbosa-de-sousa-0238aa245/)
-[![Gmail Badge](https://img.shields.io/badge/-luanin098@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanin098@gmail.com)](mailto:luanin098@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/heyluann?label=follow&style=social)](https://github.com/heyluann)
-
----
   
-## Minhas Skills
+### 💻 **Tech Stack**:
 
-**Aplicações e dados**
-
+#### 🖥️ **Front-end**:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  
 
-**DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### 💻 **Software Affinity**: 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff&style=for-the-badge)
 
 
 <br/>
