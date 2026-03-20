@@ -2,17 +2,11 @@
 
 <h1 align="center">👋 Olá, me chamo Luan Sousa</h1>
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724DD&width=435&lines=A+front-end+developer...;A+developer..." alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 **About Me**
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Estácio.
+- 💻 Front-End Developer em formação
+- 🚀 Focado em construir aplicações reais com JavaScript
 
 ### 🌐 **Sociais**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/luann-sousa)
